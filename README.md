@@ -1,1 +1,1 @@
-# TicTacToeLogicGame
+# TicTacToeLogicOfGame
