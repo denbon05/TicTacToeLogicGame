@@ -1,0 +1,39 @@
+{
+  "name": "tictactoelogicgame",
+  "version": "1.0.0",
+  "description": "logic of game tic-tac-toe with 'polymorphism'(S.O.L.I.D)",
+  "main": "TicTacToe.js",
+  "scripts": {
+    "test": "npx -n --experimental-vm-modules jest"
+  },
+  "type": "module",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denbon05/TicTacToeLogicGame.git"
+  },
+  "keywords": [
+    "tic-tac"
+  ],
+  "author": "den",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denbon05/TicTacToeLogicGame/issues"
+  },
+  "homepage": "https://github.com/denbon05/TicTacToeLogicGame#readme",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jest": "^23.20.0",
+    "jest": "^26.4.1",
+    "jest-cli": "^26.4.1"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.10"
+  }
+}
