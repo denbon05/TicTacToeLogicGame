@@ -1,1 +1,1 @@
-# TicTacToeLogicOfGame
+# TicTacToeLogicOfGame with polymorphism
